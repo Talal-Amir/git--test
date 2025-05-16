@@ -8,21 +8,3 @@ html{
     font-size: 62.5%;
 }
 
-.main{
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-   height: 40rem;
-}
-
-.main_heading{
-    font-size: 8rem;
-}
-.list{
-    font-size: 2rem;
-    
-}
-.list_items{
-
-}
